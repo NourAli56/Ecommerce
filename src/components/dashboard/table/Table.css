@@ -1,0 +1,16 @@
+.pagination{
+    background-color: white;
+    padding: 10px 20px;
+    margin-bottom: 0px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.custom-table{
+    min-height: 500px;
+    background-color: #fdfdfd;
+    overflow-y: scroll;
+}
+.custom-table .rdt_TableRow {
+    border-bottom: none !important;
+}
